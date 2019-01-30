@@ -18,7 +18,7 @@ fase (Alpha): se indica si se encuentra en una fase de desarrollo que no sea la 
 #### Siguiente versión
 
 - [x] Cambiar el formato del fichero directorios.txt y usar getopts para recoger parámetros con los que listar, añadir o borrar lineas de dicho fichero. 
-
+- [ ] Situar el script en el servidor principal (Rajoy) para realizar las copias desde ahí conectandose a los otros servidores mediante clave pública-privada.
 
 #### Consideraciones
 
