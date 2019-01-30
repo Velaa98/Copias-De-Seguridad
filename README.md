@@ -12,16 +12,16 @@ fase (Alpha): se indica si se encuentra en una fase de desarrollo que no sea la 
 
 #### A solucionar
 
-- [ ] Actualmente es necesario realizar la primera copia completa y/o diferencial según cuando empecemos a usar el script. O por otro lado, te obliga empezar a usar el script un lunes.
+- Actualmente es necesario realizar la primera copia completa y/o diferencial según cuando empecemos a usar el script. O por otro lado, te obliga empezar a usar el script un lunes.
 
 
 #### Siguiente versión
 
-- [ ] Cambiar el formato del fichero directorios.txt y usar getopts para recoger parámetros con los que listar, añadir o borrar lineas de dicho fichero. 
+- [x] Cambiar el formato del fichero directorios.txt y usar getopts para recoger parámetros con los que listar, añadir o borrar lineas de dicho fichero. 
 
 
 #### Consideraciones
 
-- [ ] Directorio para el script /usr/local/sbin.
-- [ ] Directorio para las copias de seguridad /var/backups.
-- [ ] Directorio para las snapshots /var/backups/snapshots.
+- Directorio para el script /usr/local/sbin.
+- Directorio para las copias de seguridad /var/backups.
+- Directorio para las snapshots /var/backups/snapshots.
